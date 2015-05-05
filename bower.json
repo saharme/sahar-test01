@@ -16,6 +16,9 @@
   },
   "license": "MIT",
   "private": false,
+  "dependencies": {
+    "sahar-test02": "git@github.com:saharme/sahar-test02.git"
+  },
   "ignore": [
     "**/.*",
     "node_modules",
