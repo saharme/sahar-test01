@@ -17,7 +17,7 @@
   "license": "MIT",
   "private": false,
   "dependencies": {
-    "sahar-test02": "git://github.com/saharme/sahar-test02.git"
+    "sahar-test02": "git://github.com/saharme/sahar-test02.git#1.0.0"
   },
   "ignore": [
     "**/.*",
