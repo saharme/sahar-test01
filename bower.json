@@ -1,6 +1,6 @@
 {
   "name": "sahar-component",
-  "version": "1.9.0",
+  "version": "1.0.3",
   "authors": [
     "Menashe",
     "Sahar <sahar.menasheh@hp.com>"
@@ -17,7 +17,7 @@
   "license": "MIT",
   "private": false,
   "dependencies": {
-    "sahar-test02": "git@github.com:saharme/sahar-test02.git"
+    "sahar-test02": "git://github.com/saharme/sahar-test02.git"
   },
   "ignore": [
     "**/.*",
