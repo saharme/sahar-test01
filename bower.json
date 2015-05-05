@@ -15,7 +15,7 @@
 	"url": "git@github.com:saharme/sahar-test01.git"
   },
   "license": "MIT",
-  "private": true,
+  "private": false,
   "ignore": [
     "**/.*",
     "node_modules",
