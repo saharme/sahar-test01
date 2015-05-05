@@ -12,7 +12,7 @@
   ],
   "repository": {
 	"type": "git",
-	"url": "git@github.com:saharme/sahar-test01.git"
+	"url": "git://github.com/saharme/sahar-test02.git"
   },
   "license": "MIT",
   "private": false,
